@@ -1,5 +1,13 @@
 <h1 align="center">Disney Investment</h1>
 
+# Description
+Analyzing Disney's stock over the last 100 years reveals a compelling story of growth, innovation, and adaptation. Founded in 1923, The Walt Disney Company went public in 1940. Since then, its stock has experienced significant growth, reflecting the company's expansion from a small animation studio to a global entertainment conglomerate.
+
+Key periods of growth include the post-World War II boom, the 1980s under CEO Michael Eisner, and the 2000s with strategic acquisitions like Pixar, Marvel, Lucasfilm, and 21st Century Fox. These acquisitions diversified Disney's portfolio and boosted revenue streams, positively impacting stock performance.
+
+The stock also faced challenges, such as the 1970s economic downturn, the early 2000s dot-com bubble burst, and the 2020 COVID-19 pandemic. However, Disney's resilience and ability to innovate, particularly through its streaming service Disney+, have helped it recover and thrive.
+
+Overall, Disney's stock history reflects a blend of strategic vision, market adaptability, and a strong brand legacy, making it a notable long-term investment in the entertainment industry.
 
 # Prerequistes
 
