@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-    <img src="Disney100Years.PNG">
-</div>
-
-<h1 align="center">Disney Investment</h1>
+<div style="text-align: center;"><img src="Disney100Years.PNG"></div><h1 align="center">Disney Investment</h1>
 
 # Description
 Analyzing Disney's stock over the last 100 years reveals a compelling story of growth, innovation, and adaptation. Founded in 1923, The Walt Disney Company went public in 1940. Since then, its stock has experienced significant growth, reflecting the company's expansion from a small animation studio to a global entertainment conglomerate.
