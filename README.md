@@ -1,4 +1,6 @@
-<img src="Disney100Years.PNG" alt="Disney 100 Years" style="display: block; margin-left: auto; margin-right: auto;">
+<div style="text-align: center;">
+  <img src="Disney100Years.PNG" alt="Disney 100 Years" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
 <h1 align="center">Disney Investment</h1>
 
 # Description
