@@ -1,4 +1,20 @@
+<html>
+<head>
+    <style>
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+        }
+    </style>
+</head>
+<body>
+
 <img src="Disney100Years.PNG" class="center">
+
+</body>
+</html>
 <h1 align="center">Disney Investment</h1>
 
 # Description
